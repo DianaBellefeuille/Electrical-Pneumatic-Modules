@@ -6,7 +6,6 @@ pneumatic modules.
 ![Electrical Module](images/ElectricalModule.png)
 ![Pneumatics Module](images/PneumaticsModule.png)
 
-
 ## Project Goals and Purpse
 
 The primary goal of this project is to modularize the electrical and pneumatics
