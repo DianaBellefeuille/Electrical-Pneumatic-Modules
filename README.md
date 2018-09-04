@@ -3,8 +3,8 @@
 This project contains all of the necessary files to  build the electrical and
 pneumatic modules.
 
-![Electrical Module](Electrical Module v28.png)
-![Pneumatics Module](Pneumatics Module 2 v10.png)
+![Electrical Module](images/ElectricalModule.png)
+![Pneumatics Module](images/PneumaticsModule.png)
 
 
 ## Project Goals and Purpse
