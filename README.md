@@ -40,9 +40,9 @@ contain the workable CAD.  These are Fusion 360 CAD files.
 | 2 Position Rectangular Housing Connector Plug Black 0.100" (2.54mm) | Molex, LLC | 0701070001 | 20 |
 | Pin Contact Gold 22-24 AWG Crimp | Molex, LLC | 0016020115 | 40 |
 | Socket Contact Gold 22-24 AWG Crimp | Molex, LLC | 0016020103 | 40 |
-| Socket button head, Stainless steel 18-8, #4-40 | BoltDepot |  |
-| Socket button head, Stainless steel 18-8, #6-32 | BoltDepot |  |
-| Hex lock nuts nylon insert, Stainless steel 18-8, #6-32 | BoltDepot |  |
+| Socket button head, Stainless steel 18-8, #4-40 | BoltDepot | TBD |
+| Socket button head, Stainless steel 18-8, #6-32 | BoltDepot | TBD |
+| Hex lock nuts nylon insert, Stainless steel 18-8, #6-32 | BoltDepot | TBD |
 
 ## Pneumatics BOM
 
