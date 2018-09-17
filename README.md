@@ -49,9 +49,10 @@ contain the workable CAD.  These are Fusion 360 CAD files.
 | Description | Manfacturer | Part Number | Quantity |
 | ----------- | ----------- | ----------- | -------- |
 | 200mmx300mmx3mm Carbon Fiber Plate | Hobby-Wing | AA0007 | 1 |
-| High pressure manifold guide, 5-port | C.I.S. | TBD | 1 |
-| Working pressure manifold guide, 3-port | C.I.S. | TBD | 1 |
-| Nason pressure switch bracket | C.I.S. | TBD | 1 |
+| High pressure manifold guide, 5-port | C.I.S. | CIS-PM-001 | 1 |
+| Working pressure manifold guide, 3-port | C.I.S. | CIS-PM-003 | 1 |
+| Nason pressure switch bracket | C.I.S. | CIS-PM-004 | 1 |
+| .2in Spacer | C.I.S. | CIS-PM-002 | 5 |
 | Push-to-connect union tee, 1/4" | NITRA | UT14 | 3 |
 | Push-to-connect male branch tee, 1/4" tube to 1/8" NPT | NITRA | MBT14-18N | 2 |
 | Push-to-connect union elbow, 1/4" | NITRA | UL14 | 1 |
