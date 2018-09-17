@@ -31,7 +31,8 @@ contain the workable CAD.  These are Fusion 360 CAD files.
 | ----------- | ----------- | ----------- | -------- |
 | 250mmx400mmx2mm Carbon Fiber Plate | RJXHobby | RJX1750-P1 | 2 |
 | 1"x0.5"x0.125" 6063 T52 Channel | OnlineMetals | 1061 | 36" |
-| Anderson PP Mount | C.I.S. | TBD | 4 |
+| Anderson PP Mount Bottom | C.I.S. | CIS-EM-001 | 4 |
+| Anderson PP Mount Top | C.I.S. | CIS-EM-002 | 4 |
 | 1/8" Inside Diameter Rubber Grommet - 1/16" Groove Width - Fits 1/4" Holes | RubberFeetWarehouse | RG1814116 | 24 |
 | 3/8" Inside Diameter Rubber Grommet - 1/16" Groove Width - Fits 1/2" Holes | RubberFeetWarehouse | 1RG381214 | 29 |
 | 1/2" Inside Diameter Rubber Grommet - 1/16" Groove Width - Fits 3/4" Holes | RubberFeetWarehouse | RG1211634 | 7 |
