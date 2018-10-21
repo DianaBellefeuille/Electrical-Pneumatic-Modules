@@ -30,7 +30,7 @@ contain the workable CAD.  These are Fusion 360 CAD files. Hi does this work
 | Description | Manfacturer | Part Number | Quantity |
 | ----------- | ----------- | ----------- | -------- |
 | 250mmx400mmx2mm Carbon Fiber Plate | RJXHobby | RJX1750-P1 | 2 |
-| 1"x0.5"x0.125" 6063 T52 Channel | OnlineMetals | 1061 | 36" |
+| 1"x0.5"x0.125" 6063 T52 Channel | OnlineMetals | 1061 | 29" |
 | Anderson PP Mount Bottom | C.I.S. | CIS-EM-001 | 4 |
 | Anderson PP Mount Top | C.I.S. | CIS-EM-002 | 4 |
 | 1/8" Inside Diameter Rubber Grommet - 1/16" Groove Width - Fits 1/4" Holes | RubberFeetWarehouse | RG1814116 | 24 |
